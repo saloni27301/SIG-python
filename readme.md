@@ -6,7 +6,8 @@ Task completed by Saloni(1803010120) 3rd year.
 #### Topics
 <ul>
     <li>Installation of IDE</li>
-    </ul>
+ </ul>
+ 
 1. [Print Hello World](https://github.com/saloni27301/SIG-python/blob/master/module1/main.py)
 
 ### Module 2
@@ -76,6 +77,7 @@ Task completed by Saloni(1803010120) 3rd year.
 <li>Modules in python</li>
 <li>Membership and Identify Operators in python</li>
 </ul>
+
 1. [Write a python function to multiply all the numbers in a list](https://github.com/saloni27301/SIG-python/blob/master/module7/multiplylist.py)
 2. [Write a python function to check whether a number is in a given range](https://github.com/saloni27301/SIG-python/blob/master/module7/checkrange.py)
 
@@ -92,7 +94,7 @@ Task completed by Saloni(1803010120) 3rd year.
 4. [Multiply all the items in a dictionary](https://github.com/saloni27301/SIG-python/blob/master/module8/dictationary.py)
 
 ### Module 9
-####Topics
+#### Topics
 
 <ul>
 <li>File Handling in Python</li>
